@@ -1,13 +1,13 @@
-# 🔄 Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction Using Machine Learning
 
 This project predicts whether a customer is likely to churn (leave a service) using classification models. It is based on the Telco Customer Churn dataset.
 
-## 💼 Business Goal
+## Business Goal
 Understanding customer churn helps companies take preventive action to retain customers and reduce revenue loss.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Source**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Features include:
   - Customer tenure
@@ -18,21 +18,21 @@ Understanding customer churn helps companies take preventive action to retain cu
 
 ---
 
-## ⚙️ Tools & Libraries
+##  Tools & Libraries
 - Python, Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 
 ---
 
-## 🧠 ML Models Used
+## ML Models Used
 - Logistic Regression
 - Random Forest
 - XGBoost (optional)
 
 ---
 
-## ✅ Project Highlights
+## Project Highlights
 - Data preprocessing & visualization
 - Feature encoding and scaling
 - Model training & evaluation (accuracy, confusion matrix, ROC)
@@ -40,7 +40,7 @@ Understanding customer churn helps companies take preventive action to retain cu
 
 ---
 
-## 📌 Real-World Impact
+## Real-World Impact
 This model can help companies proactively identify customers likely to churn and take action (discounts, engagement, etc.).
 
 ---
